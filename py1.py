@@ -21,6 +21,5 @@ class queue:
                             q.dequeue()
                             print("after removing an element")
                             q.display()
-print("hello")
-print("githubop")
+print("world")
 
